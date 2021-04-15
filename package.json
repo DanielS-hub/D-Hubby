@@ -1,0 +1,19 @@
+{
+  "name": "theshop2021",
+  "version": "1.0.0",
+  "description": "MERN shopping app",
+  "main": "server.js",
+  "scripts": {
+    "start": "node backend/server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DanielS-hub/D-Hubby.git"
+  },
+  "author": "Daniel S",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DanielS-hub/D-Hubby/issues"
+  },
+  "homepage": "https://github.com/DanielS-hub/D-Hubby#readme"
+}
